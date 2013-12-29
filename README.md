@@ -1,7 +1,7 @@
 <h1><b>Engineer, Artist, and Beekeeper</b></h1>
 
 <i>
-Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. I love programming in Python and hacking on hardware such as the Arduino/RaspberryPi. I work professionally on a large and complex Django application and would love the chance to work on smaller more creative web projects including artist portfolios and gallery installations.
+Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. I'm also very passionate about web programming and interested in learning about Human Computer Interaction (HCI). I'm also very happy programming in Python and hacking on hardware such as the Arduino/RaspberryPi. I work professionally on a large and complex Django application and would love the chance to work on smaller more creative web/programming projects including artist portfolios and gallery installations.
 </i>
 
 <h2>Professional Experience</h2><br>
