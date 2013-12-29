@@ -57,10 +57,9 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <b><i>Technical</i></b>
 
 <ul>
-<li>Designed and Coded high resolution electrocardiogram acquisition software</li>
-<li>Developed several small applications utilizing web based APIs and Python libraries</li>
+<li>Developed several applications utilizing web based APIs and Python libraries</li>
 <li>Supported live production enterprise level computer systems for Catholic Healthcare West</li>
-<li>Supported over 40 live production IQHealth web based clients</li>
+<li>Developed, Supported, and Released for over 100 live production Patient Portal web based clients</li>
 </ul>
 </div>
 
