@@ -1,4 +1,3 @@
-
 <h1><b>Engineer, Artist, and Beekeeper</b></h1>
 
 <i>
@@ -76,8 +75,8 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 </div>
 <h2>Skills</h2><br>
 <b><i>Computer</i></b><br>
-HTML, CSS, JavaScript, JQuery, Python, SQL, CCL, Arduino Programming, Circuit Design and Build,<br>
-AIX, UNIX, Linux, Windows (95/98/200/XP/Vista/2003 Server), Websphere, C, Visual Basic, Assembly<br>
+HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, CCL, Arduino Programming, Circuit Design and Build,<br>
+DJANGO, Flask, Rest API, AIX, UNIX, Linux, Windows (95/98/200/XP/Vista/2003 Server), Websphere, C, Visual Basic, Assembly<br>
 Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7
 
 <b><i>Design</i></b><br>
