@@ -8,9 +8,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <b><i>Cerner Corporation | Software Engineer | Jan. 2013 – Present</i></b>
 
 <ul>
-<li>Full Stack Developer - Python</li>
-<li>Django and Flask focusing mostly on Django </li>
-<li>Test driven full stack development. </li>
+<li>Test Driven Full Stack Django Developer - Python</li>
 <li>Experience with deployments and release management using AWS, Fabric, Jenkins, and a little SaltStack.</li>
 </ul>
 
@@ -74,9 +72,9 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 </div>
 <h2>Skills</h2><br>
 <b><i>Computer</i></b><br>
-HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, CCL, Arduino Programming, Circuit Design and Build,<br>
-Django, Flask, Rest API, AIX, UNIX, Linux, Windows (95/98/200/XP/Vista/2003 Server), Websphere, C, Visual Basic, Assembly<br>
-Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Agile
+HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, Agile, CCL, Arduino Programming, Circuit Design and Build,<br>
+Django, Flask, Rest API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
+Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Matlab, NGINX, Apache
 
 <b><i>Design</i></b><br>
 Photoshop, MaxMSP, Google Sketchup, Audacity, iMovie
