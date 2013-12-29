@@ -10,7 +10,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <ul>
 <li>Developed software for the <a href="http://www.cerner.com/solutions/Physician_Practice/Patient_Portal/">Cerner Patient Portal</a></li>
 <li>Test Driven Full Stack Django Developer</li>
-<li>Experience with deployments and release management using AWS, Fabric, Jenkins, and a little SaltStack.</li>
+<li>Experience with infrastructure, operations, deployments and release management </li>
 </ul>
 
 
@@ -74,7 +74,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <h2>Skills</h2><br>
 <b><i>Computer</i></b><br>
 HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, Agile, CCL, Arduino Programming, Circuit Design and Build,<br>
-Django, Flask, RESTful API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
+Amazon AWS, Django, Flask, RESTful API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
 Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Matlab, NGINX, Apache
 
 <b><i>Design</i></b><br>
