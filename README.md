@@ -76,8 +76,8 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <h2>Skills</h2><br>
 <b><i>Computer</i></b><br>
 HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, CCL, Arduino Programming, Circuit Design and Build,<br>
-DJANGO, Flask, Rest API, AIX, UNIX, Linux, Windows (95/98/200/XP/Vista/2003 Server), Websphere, C, Visual Basic, Assembly<br>
-Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7
+Django, Flask, Rest API, AIX, UNIX, Linux, Windows (95/98/200/XP/Vista/2003 Server), Websphere, C, Visual Basic, Assembly<br>
+Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Agile
 
 <b><i>Design</i></b><br>
 Photoshop, MaxMSP, Google Sketchup, Audacity, iMovie
