@@ -1,7 +1,7 @@
 <h1><b>Engineer, Artist, and Beekeeper</b></h1>
 
 <i>
-Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. I'm also very passionate about web programming and understanding Human Computer Interaction (HCI). I'm also very happy programming in Python and hacking on hardware such as the Arduino/RaspberryPi. I work professionally on a large and complex Django application and would love the chance to work on smaller more creative web/programming projects including artist portfolios and gallery installations.
+Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. I'm also very passionate about web programming and understanding Human Computer Interaction (HCI). I'm also very happy programming in Python and hacking on hardware such as the Arduino/RaspberryPi. I work professionally on a large-scale complex Django application and would love the chance to work on smaller more creative web/programming projects including artist portfolios and gallery installations.
 </i>
 
 <h2>Professional Experience</h2><br>
@@ -74,7 +74,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <h2>Skills</h2><br>
 <b><i>Computer</i></b><br>
 HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, Agile, CCL, Arduino Programming, Circuit Design and Build,<br>
-Django, Flask, Rest API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
+Django, Flask, RESTful API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
 Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Matlab, NGINX, Apache
 
 <b><i>Design</i></b><br>
