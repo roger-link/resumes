@@ -1,14 +1,14 @@
 <h1><b>Engineer, Artist, and Beekeeper</b></h1>
 
 <i>
-Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. I'm also very passionate about web programming and understanding Human Computer Interaction (HCI). I'm also very happy programming in Python and hacking on hardware such as the Arduino/RaspberryPi. I work professionally on a large-scale complex Django application and would love the chance to work on smaller more creative web/programming projects including artist portfolios and gallery installations.
+Artistic Engineer looking for fun technical projects to work on. I'm particularly interested in working on projects related to the web and/or anything helping me to be more creative. My passion lies in web programming and understanding how humans and computers interact. I work professionally on a large-scale complex Python Django application and would love the chance to work on smaller more creative web/programming projects including artist portfolios and gallery installations.
 </i>
 
 <h2>Professional Experience</h2><br>
 <b><i>Cerner Corporation | Software Engineer | Jan. 2013 – Present</i></b>
 
 <ul>
-<li>Developed software for the <a href="http://www.cerner.com/solutions/Physician_Practice/Patient_Portal/">Cerner Patient Portal</a></li>
+<li>Develop software for the <a href="http://www.cerner.com/solutions/Physician_Practice/Patient_Portal/">Cerner Patient Portal</a></li>
 <li>Test Driven Full Stack Django Developer</li>
 <li>Experience with infrastructure, operations, deployments and release management </li>
 </ul>
@@ -36,7 +36,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <li>Performed system health checks and functioned as the point person for resolving Cerner Millennium issues</li>
 </ul>
 
-<b><i>Whoop Dee Doo | May 2009-Present</i><b>
+<b><i>Whoop Dee Doo | May 2009 - Dec 2013</i><b>
 
 <ul>
 <li>Performer, Set Designer, Prop Maker, Photographer, Graphic Designer, <a href="http://whoopdeedoo.tv/">Website Administratior</a>, and Business Manager</li>
