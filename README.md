@@ -75,7 +75,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <b><i>Computer</i></b><br>
 HTML, CSS, JavaScript, JQuery, Python, SQL, GIT, Subversion, Agile, CCL, Arduino Programming, Circuit Design and Build,<br>
 Amazon AWS, Django, Flask, RESTful API, AIX, UNIX, Linux including RHEL and Ubuntu, Websphere<br>
-Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Matlab, NGINX, Apache
+Jenkins, Zabbix, Shell Scripting, vi, Oracle 9i, SQL*Plus, HL7, Matlab, NGINX, Apache
 
 <b><i>Design</i></b><br>
 Photoshop, MaxMSP, Google Sketchup, Audacity, iMovie
