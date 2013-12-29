@@ -1,5 +1,4 @@
 
-
 <h1><b>Engineer, Artist, and Beekeeper</b></h1>
 
 <i>
@@ -89,14 +88,14 @@ Grant Writing, Non-Profit Management, Fundraising, Project Planning, Community O
 
 
 <h2>Education</h2><br>
-<b><i>Iowa State University, Ames, Iowa</i><b/>
+<b>Iowa State University</b>    <i> Ames, Iowa</i><br>
 Currently pursuing Master of Science, Human Computer Interaction<br>
 
-<b><i>Purdue University, Indianapolis, Indiana</i></b>
+<b>Purdue University</b>    <i>Indianapolis, IN</i></i><br>
 Bachelor of Science, Electrical Engineering
-Mathmatics Minor<br>
+Mathmatics Minor
 
-<b><i>Kansas City Art Institute</i></b>
+<b>Kansas City Art Institute</b>     <i>Kansas City, MO</i><br>
 Professional Clases in 2D Design, Web Design, Color Theory, Photography, and Graphic Design
 
 
