@@ -8,6 +8,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <b><i>Cerner Corporation | Software Engineer | Jan. 2013 – Present</i></b>
 
 <ul>
+<li>Developed software for the <a href="http://www.cerner.com/solutions/Physician_Practice/Patient_Portal/">Cerner Patient Portal</a></li>
 <li>Test Driven Full Stack Django Developer - Python</li>
 <li>Experience with deployments and release management using AWS, Fabric, Jenkins, and a little SaltStack.</li>
 </ul>
@@ -38,7 +39,7 @@ Artistic Engineer looking for fun technical projects to work on. I'm particularl
 <b><i>Whoop Dee Doo | May 2009-Present</i><b>
 
 <ul>
-<li>Performer, Set Designer, Prop Maker, Photographer, Graphic Designer, Website Administratior, and Business Manager</li>
+<li>Performer, Set Designer, Prop Maker, Photographer, Graphic Designer, <a href="http://whoopdeedoo.tv/">Website Administratior</a>, and Business Manager</li>
 <li>Traveled and performed nationally and internationally on large and small scale shows</li>
 <li>Created large and small installations with emphasis on multimedia, lighting, and prop making</li>
 </ul>
